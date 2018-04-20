@@ -1,4 +1,5 @@
 theme = "coder" # set the theme
+baseURL = "https://darrenwee.github.io/"
 
 [params] # theme parameters
     author = "Darren Wee" # author's name
