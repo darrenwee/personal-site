@@ -1,4 +1,8 @@
-# Darren Wee Zhe Yu
+---
+title: "Darren Wee"
+date: 2018-04-20T17:41:22+08:00
+slug: "about"
+---
 
 * **Email:** [`darren.wee@u.nus.edu`](mailto:darren.wee@u.nus.edu)
 * **GitHub:** https://github.com/darrenwee
