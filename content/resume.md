@@ -1,7 +1,6 @@
 ---
 title: "Darren Wee"
-date: 2018-04-20T17:41:22+08:00
-slug: "about"
+slug: "resume"
 ---
 
 * **Email:** [`darren.wee@u.nus.edu`](mailto:darren.wee@u.nus.edu)
@@ -12,8 +11,7 @@ slug: "about"
 ## Education
 ---
 ### National University of Singapore
-Bachelor of Computing (Computer Science), 2015 - present
-
+Bachelor of Computing (Computer Science), 2015 - present<br>
 (expected to graduate fall 2019)
 
 * Specialization in Software Engineering
@@ -22,10 +20,8 @@ Bachelor of Computing (Computer Science), 2015 - present
 
 ## Experience
 ---
-Student Researcher/Research Assistant
-
-*Institute for Infocomm Research, A\*STAR*
-
+### Institute for Infocomm Research, A\*STAR, Singapore
+Student Researcher/Research Assistant<br>
 Nov 2013 - Jan 2017
 
 - Acoustic modelling of whispered English and Mandarin speech using deep-learning algorithms.
